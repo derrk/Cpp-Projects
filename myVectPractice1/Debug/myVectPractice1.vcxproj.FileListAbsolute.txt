@@ -1,0 +1,2 @@
+D:\myVectPractice1\Debug\myVectPractice1.exe
+D:\myVectPractice1\Debug\myVectPractice1.pdb
